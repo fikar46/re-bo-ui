@@ -1,0 +1,23 @@
+.first-wtp {
+    color: #4f4f4f;
+    font-size: 30px;
+}
+.fontreg{
+    font-family:'dinreguler', arial;
+}
+.biru-doku-font{
+    color: #0079d1; 
+}
+.shadow-navbar {
+    -webkit-box-shadow: 0 3px 5px 0 rgba(0,0,0,.13);
+    box-shadow: 0 3px 5px 0 rgba(0,0,0,.13);
+}
+.card-login {
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    -moz-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    -o-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    -ms-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+}

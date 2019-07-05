@@ -1,0 +1,1 @@
+export const koneksi = 'http://localhost:1997';
